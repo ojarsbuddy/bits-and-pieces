@@ -1,4 +1,4 @@
-# hello-world
+# bits-and pieces
 A place to share ideas, resources and hold discussions.
 
-Eagerly absorbing the functional programming paradigm for javascript.
+Exploring the functional programming paradigm for javascript.
